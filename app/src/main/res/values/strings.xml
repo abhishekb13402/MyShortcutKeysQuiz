@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyShortcutKeysQuiz</string>
+    <string name="logo">Logo</string>
+    <string name="myshortcutkeysquiz">MyShortcutKeysQuiz</string>
+    <string name="category">Category</string>
+    <string name="start">Start</string>
+    <string name="score_is_displayed_as_a_letter_when_you_complete_all_questions">Score is displayed as a letter when you complete all questions.</string>
+</resources>
